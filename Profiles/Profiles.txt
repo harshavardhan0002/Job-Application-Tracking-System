@@ -10,17 +10,17 @@ Position: Team Leader
 Name of the Student: Amuluru Mahesh Sai
 Learning Track: Devoloper
 Project Name: Job Application Tracking System
-Trailhead Profile:
-Developer Org Username:
-Developer Org Password:
+Trailhead Profile: https://www.salesforce.com/trailblazer/maheshsaiamuluru
+Developer Org Username: maheshsai@gdcproject1.com
+Developer Org Password: Gayatri@123
 Position: Team Member
 
 Name of the Student:Ekamabaram Mohan Raj
 Learning Track: Devoloper
 Project Name: Job Application Tracking System
-Trailhead Profile:
-Developer Org Username:
-Developer Org Password:
+Trailhead Profile: https://www.salesforce.com/trailblazer/smilyraju
+Developer Org Username: mohanrajgdcproject.com
+Developer Org Password: Gauayti@123
 Position: Team Member
 
 Name of the Student: Gunti Jaya surya
